@@ -14,4 +14,4 @@ logging:
     root: INFO
 
 greeting:
-  message: user-service-remote-default-yaml-test-message
+  message: user-service-remote-default
