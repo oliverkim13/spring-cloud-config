@@ -14,4 +14,4 @@ logging:
     root: INFO
 
 greeting:
-  message: user-service-remote-default
+  message: user-service-remote-default-last-update
