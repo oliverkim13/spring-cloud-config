@@ -6,4 +6,4 @@ gateway:
   ip: 192.168.0.8
 
 greeting:
-  message: user-service-dev-remote-default
+  message: user-service-dev-remote-default-last-dev-test
