@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000 
-  secret: my-very-long-secret-key-1234567890123456-from-remote-repo-userservice-dev
+  secret: '{cipher}AQBfTE5EuaOTDEArYq2JSMDdeJBH8ZU5lpa0qetmvOGPsIcnO2ASnbPDBKWuimU/luYcWwBGGPQcH2FuYBOHqXX4Ak80KKJce4nB48MsHTKmCettPous5LhSpZ7YcYM1+QGha6GPsVWEaI7ZheqG9APAUw7UcSKeLFZI9ZIuQNeB3/iTJi6kBIijxRVKj5/1cTNuiY4FKDO+VjeyLZR5hsNCahL9NIzCg8k78JeWogScFVsLXwB+OseBc4woaAnZKq4+M6DHmh3Xkz8PlBwSydEPOdvqEY6h2gkDbIbpVvIj4fBo4XIC9g9pyp7bDAsKPEPvZ6Hx2mxsKbM1N7dECDaoNZnIqziWdrnbi34YJsY/lCVk62WEvBAhSrhTMboKuoex7pYHJ9zN47eEwxSK8yzceZlBCyMXEYbEoPl9rIZ0Y7y3v0q86dYUa8/wm8u6yaP0MyLH3Cl6oW31pCviWkA3'
 
 gateway:
   ip: 192.168.0.8
